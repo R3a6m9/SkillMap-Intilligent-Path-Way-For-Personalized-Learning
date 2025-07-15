@@ -100,28 +100,10 @@ SkillMap is a mobile app and web platform that helps users master new skills wit
 
 ---
 
-## 👨‍💻 Team
-
-| Name                 | Role                         |
-| -------------------- | ---------------------------- |
-| **Jupally Poojitha** | Lifelong learner & Innovator |
-| **Thati Karthika**   | Passionate about learning    |
-| **MD Saahil Khan**   | AI-driven learning solutions |
-
----
-
 ## 📞 Contact Us
 
-📧 **Email**: [support@skillmap.com](mailto\:support@skillmap.com)\
-📞 **Phone**: +123 456 7890\
-🌐 **Website**: [skillmap.com](https://your-website-url.com)
-
----
-
-## 📜 License
-
-© 2025 SkillMap. All rights reserved.
-
+📧 **Email**: [support@skillmap.com](mailto\:ramkumarnilla@gmail.com\
+📞 **Phone**: +91 9059705892\
 ---
 
 ## 🌟 Contributing
